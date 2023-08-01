@@ -14,3 +14,6 @@ npm install file-saver
 npm run dev
 
 => Hello World! msg printed. (Set up complete)
+
+After set up:
+npm install react-router-dom
